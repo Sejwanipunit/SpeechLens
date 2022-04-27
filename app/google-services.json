@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652169484109",
+    "project_id": "speech-lens",
+    "storage_bucket": "speech-lens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652169484109:android:485b8479e848f423ee8904",
+        "android_client_info": {
+          "package_name": "com.example.speechlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652169484109-dg68p679u6ist2el7llcfrfs218nko1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDilCptP2x3p8pwz0WticdYo9B3yu-Vn8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652169484109-dg68p679u6ist2el7llcfrfs218nko1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
